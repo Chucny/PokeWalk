@@ -1,5 +1,5 @@
 # PokeWalk
-A spoofing software that turns your keyboard into a physical spoofing device. Rooted android device needed.
+A spoofing software that turns your keyboard into a physical spoofing device. Rooted android device needed. Recommended to use with Pokemon GO, Pokemod, PGTools.
 <br><h3>Requirements:</h3><pre id="codeBlock" style="overflow-x:auto; white-space:pre-wrap;">keyboard<br>adbutils<br>threading</pre><br>
 Connect your phone via a USB cable. Open the App Ninjas GPS Joystick app, click start and then you can use your keyboard as a spoofing device.<br>
 <h3>Commands</h3>
